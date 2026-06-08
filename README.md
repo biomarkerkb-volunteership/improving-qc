@@ -2,6 +2,10 @@
 
 Standalone QC module for biomarker TSV files.
 
+Location of the TSV files:
+- OncoMX: https://data.biomarkerkb.org/BMK_000008
+- SenNet: https://data.biomarkerkb.org/BMK_000017
+
 ## Usage
 
 ```bash
